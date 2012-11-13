@@ -14,7 +14,7 @@ post_type: post
 
 В блоге [AJAX Search API](http://googleajaxsearchapi.blogspot.com/) вчера был проанонсирован [AJAX Libraries API](http://code.google.com/apis/ajaxlibs/). Суть состоит в том, что Google теперь позволяет всем желающим использовать JavaScript фреймворки, размещенные на их серверах. Сам API представляет собой простой в использовании механизм для подключения к НТМL-документам наиболее популярных JS-библиотек, среди которых jQuery, prototype, script.aculo.us, MooTools и dojo. Список, по всей видимости, будет расширяться.
 
-Подключить необходимую библиотеку можно двумя способами. Первый  тривиальный, с помощью HTML-элемента script.
+Подключить необходимую библиотеку можно двумя способами. Первый — тривиальный, с помощью HTML-элемента script.
     
     <script src="http://ajax.googleapis.com/
         ajax/libs/prototype/1.6.0.2/prototype.js"></script>

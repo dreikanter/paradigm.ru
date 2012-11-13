@@ -1,4 +1,4 @@
-title: WP Flipper  стрелочная навигация для блога
+title: WP Flipper — стрелочная навигация для блога
 link: http://paradigm.ru/wp-flipper-announce
 creator: admin
 description: 
@@ -10,7 +10,7 @@ post_name: wp-flipper-announce
 status: publish
 post_type: post
 
-# WP Flipper  стрелочная навигация для блога
+# WP Flipper — стрелочная навигация для блога
 
 Теперь страницы Paradigm.ru можно листать с помощью Ctrl-left и Ctrl-right. Идея написать такой плагин для Wordpress витала в воздухе уже давно и, в итоге, материализовалась. По сравнению с [предыдущим](/wp-postlist/), плагин получился довольно простой, не требующий никаких настроек в контрольной панели. Достаточно включить и все заработает. Ссылка на архив:
 

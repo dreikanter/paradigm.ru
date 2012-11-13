@@ -21,7 +21,7 @@ post_type: post
 ### Ссылки по теме
 
   * [Lighter Menus](http://b23.ru/pqt) @ Plugin Directory
-  * [Admin Drop Down Menu](http://b23.ru/pqo)  аналогичный плагин, работающий еще и с [Fluency](/2008/03/21/wp25-admin-color-schemes/).
+  * [Admin Drop Down Menu](http://b23.ru/pqo) — аналогичный плагин, работающий еще и с [Fluency](/2008/03/21/wp25-admin-color-schemes/).
 
 ## Comments
 

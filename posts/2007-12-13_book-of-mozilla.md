@@ -19,8 +19,8 @@ post_type: post
 По теме: 
 
   * [The Firefox Religion](http://www.blakeross.com/2005/01/22/firefox-religion/) by Blake Ross (Mozilla Firefox Founder)
-  * [Firefox  A New Religion?](http://www.populartechnology.net/2005/01/firefox-new-religion.html) @ populartechnology.net
-  * [Firefox Myths](http://mywebpages.comcast.net/SupportCD/FirefoxMyths.html)  другие любопытные факты об этом браузере.
+  * [Firefox — A New Religion?](http://www.populartechnology.net/2005/01/firefox-new-religion.html) @ populartechnology.net
+  * [Firefox Myths](http://mywebpages.comcast.net/SupportCD/FirefoxMyths.html) — другие любопытные факты об этом браузере.
 
 ## Comments
 

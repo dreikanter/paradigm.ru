@@ -3,8 +3,8 @@ link: http://paradigm.ru/emeditor-highlighting
 creator: admin
 description: 
 post_id: 205
-post_date: 2008-03-12 03:40:10
-post_date_gmt: 2008-03-12 00:40:10
+created: 2008/03/12 03:40:10
+created_gmt: 2008/03/12 00:40:10
 comment_status: open
 post_name: emeditor-highlighting
 status: publish

@@ -3,8 +3,8 @@ link: http://paradigm.ru/motoko-goes-gpl
 creator: admin
 description: 
 post_id: 19
-post_date: 2007-11-27 12:46:19
-post_date_gmt: 2007-11-27 09:46:19
+created: 2007/11/27 12:46:19
+created_gmt: 2007/11/27 09:46:19
 comment_status: open
 post_name: motoko-goes-gpl
 status: publish

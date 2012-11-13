@@ -3,8 +3,8 @@ link: http://paradigm.ru/dreamhost
 creator: admin
 description: 
 post_id: 184
-post_date: 2008-02-25 22:36:07
-post_date_gmt: 2008-02-25 19:36:07
+created: 2008/02/25 22:36:07
+created_gmt: 2008/02/25 19:36:07
 comment_status: open
 post_name: dreamhost
 status: publish
@@ -51,5 +51,5 @@ PS: А еще, если кому-то интересно, могу расска�
 
 ## Comments
 
-**[Gluek](#349 "2008-02-29 18:38:33"):** Добро пожаловать в наш клуб :)
+**[Gluek](#349 "2008/02/29 18:38:33"):** Добро пожаловать в наш клуб :)
 

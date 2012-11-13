@@ -3,8 +3,8 @@ link: http://paradigm.ru/explorer-context-menu
 creator: admin
 description: 
 post_id: 290
-post_date: 2008-04-29 02:23:51
-post_date_gmt: 2008-04-29 09:23:51
+created: 2008/04/29 02:23:51
+created_gmt: 2008/04/29 09:23:51
 comment_status: open
 post_name: explorer-context-menu
 status: publish
@@ -101,5 +101,5 @@ COMPUTER_NAME и AdministratorName, как не сложно догадать�
 
 ## Comments
 
-**[pk](#633 "2008-04-29 19:38:05"):** .reg файлы почему-то не сработали, но за ссылочку на Microsoft PowerToys спасибо - пригодилась.
+**[pk](#633 "2008/04/29 19:38:05"):** .reg файлы почему-то не сработали, но за ссылочку на Microsoft PowerToys спасибо - пригодилась.
 

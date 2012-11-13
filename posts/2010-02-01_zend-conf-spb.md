@@ -3,8 +3,8 @@ link: http://paradigm.ru/zend-conf-spb
 creator: admin
 description: 
 post_id: 441
-post_date: 2010-02-01 12:41:07
-post_date_gmt: 2010-02-01 09:41:07
+created: 2010/02/01 12:41:07
+created_gmt: 2010/02/01 09:41:07
 comment_status: open
 post_name: zend-conf-spb
 status: publish

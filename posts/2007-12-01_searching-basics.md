@@ -3,8 +3,8 @@ link: http://paradigm.ru/searching-basics
 creator: admin
 description: 
 post_id: 29
-post_date: 2007-12-01 23:21:11
-post_date_gmt: 2007-12-01 20:21:11
+created: 2007/12/01 23:21:11
+created_gmt: 2007/12/01 20:21:11
 comment_status: open
 post_name: searching-basics
 status: publish

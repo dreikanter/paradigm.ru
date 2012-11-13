@@ -3,8 +3,8 @@ link: http://paradigm.ru/using-id-with-body
 creator: admin
 description: 
 post_id: 118
-post_date: 2007-12-23 01:48:18
-post_date_gmt: 2007-12-22 22:48:18
+created: 2007/12/23 01:48:18
+created_gmt: 2007/12/22 22:48:18
 comment_status: open
 post_name: using-id-with-body
 status: publish

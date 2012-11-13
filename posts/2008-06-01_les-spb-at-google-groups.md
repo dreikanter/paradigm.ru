@@ -3,8 +3,8 @@ link: http://paradigm.ru/les-spb-at-google-groups
 creator: admin
 description: 
 post_id: 355
-post_date: 2008-06-01 00:07:29
-post_date_gmt: 2008-05-31 21:07:29
+created: 2008/06/01 00:07:29
+created_gmt: 2008/05/31 21:07:29
 comment_status: open
 post_name: les-spb-at-google-groups
 status: publish
@@ -24,5 +24,5 @@ PS: Уважаемый [Официальный Лес](http://partyconf.ru/)! М
 
 ## Comments
 
-**[Рейтинг самых лучших тем](#2136 "2008-09-12 16:14:20"):** **первое место в рейтинге...** http://paradigm.ru/2008/06/01/les-spb-at-google-groups/...
+**[Рейтинг самых лучших тем](#2136 "2008/09/12 16:14:20"):** **первое место в рейтинге...** http://paradigm.ru/2008/06/01/les-spb-at-google-groups/...
 

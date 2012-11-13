@@ -3,8 +3,8 @@ link: http://paradigm.ru/happy-new-year
 creator: admin
 description: 
 post_id: 147
-post_date: 2007-12-30 00:17:01
-post_date_gmt: 2007-12-29 21:17:01
+created: 2007/12/30 00:17:01
+created_gmt: 2007/12/29 21:17:01
 comment_status: open
 post_name: happy-new-year
 status: publish

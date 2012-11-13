@@ -3,8 +3,8 @@ link: http://paradigm.ru/delicious-previe
 creator: admin
 description: 
 post_id: 246
-post_date: 2008-03-31 02:09:50
-post_date_gmt: 2008-03-31 09:09:50
+created: 2008/03/31 02:09:50
+created_gmt: 2008/03/31 09:09:50
 comment_status: open
 post_name: delicious-previe
 status: publish

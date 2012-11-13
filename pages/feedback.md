@@ -3,8 +3,8 @@ link: http://paradigm.ru/feedback
 creator: admin
 description: 
 post_id: 9
-post_date: 2007-11-24 15:54:52
-post_date_gmt: 2007-11-24 12:54:52
+created: 2007/11/24 15:54:52
+created_gmt: 2007/11/24 12:54:52
 comment_status: closed
 post_name: feedback
 status: publish

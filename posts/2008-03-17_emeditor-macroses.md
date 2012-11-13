@@ -3,8 +3,8 @@ link: http://paradigm.ru/emeditor-macroses
 creator: admin
 description: 
 post_id: 223
-post_date: 2008-03-17 16:49:17
-post_date_gmt: 2008-03-17 13:49:17
+created: 2008/03/17 16:49:17
+created_gmt: 2008/03/17 13:49:17
 comment_status: open
 post_name: emeditor-macroses
 status: publish

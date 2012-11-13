@@ -3,8 +3,8 @@ link: http://paradigm.ru/good-morning
 creator: admin
 description: 
 post_id: 173
-post_date: 2008-02-13 15:26:27
-post_date_gmt: 2008-02-13 12:26:27
+created: 2008/02/13 15:26:27
+created_gmt: 2008/02/13 12:26:27
 comment_status: open
 post_name: good-morning
 status: publish

@@ -3,8 +3,8 @@ link: http://paradigm.ru/a-few-more-words-on-kindle
 creator: admin
 description: 
 post_id: 410
-post_date: 2010-01-16 01:55:29
-post_date_gmt: 2010-01-15 22:55:29
+created: 2010/01/16 01:55:29
+created_gmt: 2010/01/15 22:55:29
 comment_status: open
 post_name: a-few-more-words-on-kindle
 status: publish

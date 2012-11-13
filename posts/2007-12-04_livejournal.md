@@ -3,8 +3,8 @@ link: http://paradigm.ru/livejournal
 creator: admin
 description: 
 post_id: 34
-post_date: 2007-12-04 18:20:10
-post_date_gmt: 2007-12-04 15:20:10
+created: 2007/12/04 18:20:10
+created_gmt: 2007/12/04 15:20:10
 comment_status: open
 post_name: livejournal
 status: publish

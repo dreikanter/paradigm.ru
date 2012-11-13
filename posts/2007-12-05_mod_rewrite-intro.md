@@ -3,8 +3,8 @@ link: http://paradigm.ru/mod_rewrite-intro
 creator: admin
 description: 
 post_id: 38
-post_date: 2007-12-05 21:35:17
-post_date_gmt: 2007-12-05 18:35:17
+created: 2007/12/05 21:35:17
+created_gmt: 2007/12/05 18:35:17
 comment_status: open
 post_name: mod_rewrite-intro
 status: publish
@@ -34,11 +34,11 @@ mod_rewrite имеет очень обширные возможности по 
 
 ## Comments
 
-**[admin](#41908 "2010-01-08 11:34:26"):** Юрий: Спасибо. Что сломалось на goodold, мы посмотрим.
+**[admin](#41908 "2010/01/08 11:34:26"):** Юрий: Спасибо. Что сломалось на goodold, мы посмотрим.
 
-**[Юрий](#41897 "2010-01-08 04:58:21"):** ножОм несмотря к последовательной проверкЕ "Все решилось добавлением в .htaccess одной строки:" - может, именно поэтому на http://goodold.paradigm.ru/ ссылки на статьи не работают?
+**[Юрий](#41897 "2010/01/08 04:58:21"):** ножОм несмотря к последовательной проверкЕ "Все решилось добавлением в .htaccess одной строки:" - может, именно поэтому на http://goodold.paradigm.ru/ ссылки на статьи не работают?
 
-**[Алексей](#40598 "2009-12-04 16:37:58"):** ссылка "mod_rewrite Cheat Sheet @ ilovejackdaniels.com" переехала на новый адрес (http://www.addedbytes.com/cheat-sheets/mod_rewrite-cheat-sheet/). Спасибо за статью =)
+**[Алексей](#40598 "2009/12/04 16:37:58"):** ссылка "mod_rewrite Cheat Sheet @ ilovejackdaniels.com" переехала на новый адрес (http://www.addedbytes.com/cheat-sheets/mod_rewrite-cheat-sheet/). Спасибо за статью =)
 
-**[admin](#40602 "2009-12-04 18:29:20"):** @Алексей: Поправил, спасибо.
+**[admin](#40602 "2009/12/04 18:29:20"):** @Алексей: Поправил, спасибо.
 

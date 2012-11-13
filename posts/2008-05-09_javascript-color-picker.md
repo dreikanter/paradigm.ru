@@ -3,8 +3,8 @@ link: http://paradigm.ru/javascript-color-picker
 creator: admin
 description: 
 post_id: 313
-post_date: 2008-05-09 07:45:07
-post_date_gmt: 2008-05-09 14:45:07
+created: 2008/05/09 07:45:07
+created_gmt: 2008/05/09 14:45:07
 comment_status: open
 post_name: javascript-color-picker
 status: publish

@@ -3,8 +3,8 @@ link: http://paradigm.ru/archive
 creator: admin
 description: 
 post_id: 245
-post_date: 2008-03-29 11:48:28
-post_date_gmt: 2008-03-29 18:48:28
+created: 2008/03/29 11:48:28
+created_gmt: 2008/03/29 18:48:28
 comment_status: closed
 post_name: archive
 status: publish

@@ -3,8 +3,8 @@ link: http://paradigm.ru/css3-features
 creator: admin
 description: 
 post_id: 132
-post_date: 2007-12-25 01:12:40
-post_date_gmt: 2007-12-24 22:12:40
+created: 2007/12/25 01:12:40
+created_gmt: 2007/12/24 22:12:40
 comment_status: open
 post_name: css3-features
 status: publish

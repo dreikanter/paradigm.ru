@@ -3,8 +3,8 @@ link: http://paradigm.ru/futurico-timeline-2008
 creator: admin
 description: 
 post_id: 92
-post_date: 2007-12-18 01:40:57
-post_date_gmt: 2007-12-17 22:40:57
+created: 2007/12/18 01:40:57
+created_gmt: 2007/12/17 22:40:57
 comment_status: open
 post_name: futurico-timeline-2008
 status: publish

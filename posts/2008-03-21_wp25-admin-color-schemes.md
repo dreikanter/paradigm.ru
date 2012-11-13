@@ -3,8 +3,8 @@ link: http://paradigm.ru/wp25-admin-color-schemes
 creator: admin
 description: 
 post_id: 234
-post_date: 2008-03-21 03:05:58
-post_date_gmt: 2008-03-21 10:05:58
+created: 2008/03/21 03:05:58
+created_gmt: 2008/03/21 10:05:58
 comment_status: open
 post_name: wp25-admin-color-schemes
 status: publish
@@ -77,5 +77,5 @@ post_type: post
 
 ## Comments
 
-**[Климов](#426 "2008-03-22 11:10:40"):** Прикол, на самом деле почти ничего не изменилось. (
+**[Климов](#426 "2008/03/22 11:10:40"):** Прикол, на самом деле почти ничего не изменилось. (
 

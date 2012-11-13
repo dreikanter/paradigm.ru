@@ -3,8 +3,8 @@ link: http://paradigm.ru/wd-passport-2
 creator: admin
 description: 
 post_id: 267
-post_date: 2008-04-12 06:12:03
-post_date_gmt: 2008-04-12 13:12:03
+created: 2008/04/12 06:12:03
+created_gmt: 2008/04/12 13:12:03
 comment_status: open
 post_name: wd-passport-2
 status: publish

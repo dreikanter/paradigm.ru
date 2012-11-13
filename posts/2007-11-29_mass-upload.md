@@ -3,8 +3,8 @@ link: http://paradigm.ru/mass-upload
 creator: admin
 description: 
 post_id: 23
-post_date: 2007-11-29 01:42:18
-post_date_gmt: 2007-11-28 22:42:18
+created: 2007/11/29 01:42:18
+created_gmt: 2007/11/28 22:42:18
 comment_status: open
 post_name: mass-upload
 status: publish

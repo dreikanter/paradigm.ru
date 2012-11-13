@@ -3,8 +3,8 @@ link: http://paradigm.ru/anticopypaste
 creator: admin
 description: 
 post_id: 277
-post_date: 2007-09-26 02:03:11
-post_date_gmt: 2007-09-26 09:03:11
+created: 2007/09/26 02:03:11
+created_gmt: 2007/09/26 09:03:11
 comment_status: open
 post_name: anticopypaste
 status: publish

@@ -3,8 +3,8 @@ link: http://paradigm.ru/core-update
 creator: admin
 description: 
 post_id: 18
-post_date: 2007-11-27 12:44:55
-post_date_gmt: 2007-11-27 09:44:55
+created: 2007/11/27 12:44:55
+created_gmt: 2007/11/27 09:44:55
 comment_status: open
 post_name: core-update
 status: publish

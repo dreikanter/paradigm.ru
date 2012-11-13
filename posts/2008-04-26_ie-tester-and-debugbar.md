@@ -3,8 +3,8 @@ link: http://paradigm.ru/ie-tester-and-debugbar
 creator: admin
 description: 
 post_id: 286
-post_date: 2008-04-26 12:24:14
-post_date_gmt: 2008-04-26 19:24:14
+created: 2008/04/26 12:24:14
+created_gmt: 2008/04/26 19:24:14
 comment_status: open
 post_name: ie-tester-and-debugbar
 status: publish
@@ -43,5 +43,5 @@ Dev Bar добавляет в IE специальный сайдбар, чер
 
 ## Comments
 
-**[Артём](#1319 "2008-07-09 22:00:15"):** Хорошая штука, надо попробовать, а то иногда цвета не такие выводятся каких ожидаешь увидеть
+**[Артём](#1319 "2008/07/09 22:00:15"):** Хорошая штука, надо попробовать, а то иногда цвета не такие выводятся каких ожидаешь увидеть
 

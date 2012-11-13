@@ -3,8 +3,8 @@ link: http://paradigm.ru/ie-css-special-features
 creator: admin
 description: 
 post_id: 281
-post_date: 2008-04-24 11:46:58
-post_date_gmt: 2008-04-24 18:46:58
+created: 2008/04/24 11:46:58
+created_gmt: 2008/04/24 18:46:58
 comment_status: open
 post_name: ie-css-special-features
 status: publish
@@ -65,7 +65,7 @@ IE6 увеличит ширину поля с 20 до 40px. Обычно э�
 
 ## Comments
 
-**[sanch3z](#683 "2008-05-05 04:30:48"):** ссылку на первоисточник наверное стоит дать - http://css-tricks.com/ie-css-bugs-thatll-get-you-every-time/
+**[sanch3z](#683 "2008/05/05 04:30:48"):** ссылку на первоисточник наверное стоит дать - http://css-tricks.com/ie-css-bugs-thatll-get-you-every-time/
 
-**[admin](#684 "2008-05-05 06:56:31"):** sanch3z: Я дал ссылку в самом начале перевода.
+**[admin](#684 "2008/05/05 06:56:31"):** sanch3z: Я дал ссылку в самом начале перевода.
 

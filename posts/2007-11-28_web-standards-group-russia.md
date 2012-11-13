@@ -3,8 +3,8 @@ link: http://paradigm.ru/web-standards-group-russia
 creator: admin
 description: 
 post_id: 22
-post_date: 2007-11-28 01:01:16
-post_date_gmt: 2007-11-27 22:01:16
+created: 2007/11/28 01:01:16
+created_gmt: 2007/11/27 22:01:16
 comment_status: open
 post_name: web-standards-group-russia
 status: publish
@@ -32,7 +32,7 @@ post_type: post
 
 ## Comments
 
-**[pepelsbey](#22 "2007-12-04 11:03:25"):** Спасибо за очень грамотный обзор проблемы ;)
+**[pepelsbey](#22 "2007/12/04 11:03:25"):** Спасибо за очень грамотный обзор проблемы ;)
 
-**[Zigzag](#23 "2007-12-05 16:15:24"):** Спасибо за ваш обзор! Один из немногих, грамотно поданных.
+**[Zigzag](#23 "2007/12/05 16:15:24"):** Спасибо за ваш обзор! Один из немногих, грамотно поданных.
 

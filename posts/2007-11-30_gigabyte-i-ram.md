@@ -3,8 +3,8 @@ link: http://paradigm.ru/gigabyte-i-ram
 creator: admin
 description: 
 post_id: 27
-post_date: 2007-11-30 21:25:33
-post_date_gmt: 2007-11-30 18:25:33
+created: 2007/11/30 21:25:33
+created_gmt: 2007/11/30 18:25:33
 comment_status: open
 post_name: gigabyte-i-ram
 status: publish

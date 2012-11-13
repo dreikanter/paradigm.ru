@@ -3,8 +3,8 @@ link: http://paradigm.ru/dokuwiki-png
 creator: admin
 description: 
 post_id: 33
-post_date: 2007-12-02 20:45:40
-post_date_gmt: 2007-12-02 17:45:40
+created: 2007/12/02 20:45:40
+created_gmt: 2007/12/02 17:45:40
 comment_status: open
 post_name: dokuwiki-png
 status: publish

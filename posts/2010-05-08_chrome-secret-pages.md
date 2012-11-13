@@ -3,8 +3,8 @@ link: http://paradigm.ru/chrome-secret-pages
 creator: admin
 description: 
 post_id: 479
-post_date: 2010-05-08 19:10:37
-post_date_gmt: 2010-05-08 16:10:37
+created: 2010/05/08 19:10:37
+created_gmt: 2010/05/08 16:10:37
 comment_status: open
 post_name: chrome-secret-pages
 status: publish
@@ -26,9 +26,9 @@ post_type: post
 
 ## Comments
 
-**[Gluek](#45397 "2010-05-09 02:09:01"):** Все страницы работают и в Chrome 5, одно замечание: в целях безопасности Chrome не открывает их как ссылки, перекидывая на about:blank (а Google Reader вообще убирает их), так что нужно скопировать и вручную вставить в новый таб.
+**[Gluek](#45397 "2010/05/09 02:09:01"):** Все страницы работают и в Chrome 5, одно замечание: в целях безопасности Chrome не открывает их как ссылки, перекидывая на about:blank (а Google Reader вообще убирает их), так что нужно скопировать и вручную вставить в новый таб.
 
-**[Gluek](#45398 "2010-05-09 02:10:36"):** + поделюсь ссылкой: http://ru.wikipedia.org/wiki/About:_URI
+**[Gluek](#45398 "2010/05/09 02:10:36"):** + поделюсь ссылкой: http://ru.wikipedia.org/wiki/About:_URI
 
-**[admin](#45403 "2010-05-09 08:57:46"):** Gluek: Спасибо за комментарии. На Википедии нашлись еще about:credits, about:terms, about:stats и about:internets (но две последнии не открылись — видимо из текущих версий их уже убрали).
+**[admin](#45403 "2010/05/09 08:57:46"):** Gluek: Спасибо за комментарии. На Википедии нашлись еще about:credits, about:terms, about:stats и about:internets (но две последнии не открылись — видимо из текущих версий их уже убрали).
 

@@ -3,8 +3,8 @@ link: http://paradigm.ru/thoughts-about-email
 creator: admin
 description: 
 post_id: 241
-post_date: 2008-03-26 15:20:06
-post_date_gmt: 2008-03-26 22:20:06
+created: 2008/03/26 15:20:06
+created_gmt: 2008/03/26 22:20:06
 comment_status: open
 post_name: thoughts-about-email
 status: publish

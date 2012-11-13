@@ -3,8 +3,8 @@ link: http://paradigm.ru/preventing-stepdown
 creator: admin
 description: 
 post_id: 199
-post_date: 2008-03-06 00:22:37
-post_date_gmt: 2008-03-05 21:22:37
+created: 2008/03/06 00:22:37
+created_gmt: 2008/03/05 21:22:37
 comment_status: open
 post_name: preventing-stepdown
 status: publish

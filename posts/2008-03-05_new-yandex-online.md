@@ -3,8 +3,8 @@ link: http://paradigm.ru/%d0%bd%d0%be%d0%b2%d1%8b%d0%b9-%d1%8f%d0%be%d0%bd%d0%bb
 creator: admin
 description: 
 post_id: 193
-post_date: 2008-03-05 21:47:38
-post_date_gmt: 2008-03-05 18:47:38
+created: 2008/03/05 21:47:38
+created_gmt: 2008/03/05 18:47:38
 comment_status: open
 post_name: %d0%bd%d0%be%d0%b2%d1%8b%d0%b9-%d1%8f%d0%be%d0%bd%d0%bb%d0%b0%d0%b9%d0%bd
 status: publish

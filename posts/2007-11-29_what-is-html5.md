@@ -3,8 +3,8 @@ link: http://paradigm.ru/what-is-html5
 creator: admin
 description: 
 post_id: 25
-post_date: 2007-11-29 23:51:29
-post_date_gmt: 2007-11-29 20:51:29
+created: 2007/11/29 23:51:29
+created_gmt: 2007/11/29 20:51:29
 comment_status: open
 post_name: what-is-html5
 status: publish

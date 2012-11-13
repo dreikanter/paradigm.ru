@@ -3,8 +3,8 @@ link: http://paradigm.ru/flushing-tumblr
 creator: admin
 description: 
 post_id: 345
-post_date: 2008-05-22 14:56:39
-post_date_gmt: 2008-05-22 11:56:39
+created: 2008/05/22 14:56:39
+created_gmt: 2008/05/22 11:56:39
 comment_status: open
 post_name: flushing-tumblr
 status: publish

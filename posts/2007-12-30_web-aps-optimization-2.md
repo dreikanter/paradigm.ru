@@ -3,8 +3,8 @@ link: http://paradigm.ru/web-aps-optimization-2
 creator: admin
 description: 
 post_id: 149
-post_date: 2007-12-30 00:00:59
-post_date_gmt: 2007-12-29 21:00:59
+created: 2007/12/30 00:00:59
+created_gmt: 2007/12/29 21:00:59
 comment_status: open
 post_name: web-aps-optimization-2
 status: publish
@@ -36,5 +36,5 @@ post_type: post
 
 ## Comments
 
-**[LitoX](#168 "2008-01-06 01:58:37"):** замечательно ))
+**[LitoX](#168 "2008/01/06 01:58:37"):** замечательно ))
 

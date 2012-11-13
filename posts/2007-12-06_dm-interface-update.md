@@ -3,8 +3,8 @@ link: http://paradigm.ru/dm-interface-update
 creator: admin
 description: 
 post_id: 45
-post_date: 2007-12-06 18:11:34
-post_date_gmt: 2007-12-06 15:11:34
+created: 2007/12/06 18:11:34
+created_gmt: 2007/12/06 15:11:34
 comment_status: open
 post_name: dm-interface-update
 status: publish

@@ -3,8 +3,8 @@ link: http://paradigm.ru/no-stupiding
 creator: admin
 description: 
 post_id: 351
-post_date: 2008-05-30 13:17:55
-post_date_gmt: 2008-05-30 10:17:55
+created: 2008/05/30 13:17:55
+created_gmt: 2008/05/30 10:17:55
 comment_status: open
 post_name: no-stupiding
 status: publish

@@ -3,8 +3,8 @@ link: http://paradigm.ru/tinyloadcom
 creator: admin
 description: 
 post_id: 162
-post_date: 2008-01-22 17:13:25
-post_date_gmt: 2008-01-22 14:13:25
+created: 2008/01/22 17:13:25
+created_gmt: 2008/01/22 14:13:25
 comment_status: open
 post_name: tinyloadcom
 status: publish

@@ -3,8 +3,8 @@ link: http://paradigm.ru/ui-evolution
 creator: admin
 description: 
 post_id: 278
-post_date: 2007-05-07 02:11:33
-post_date_gmt: 2007-05-07 09:11:33
+created: 2007/05/07 02:11:33
+created_gmt: 2007/05/07 09:11:33
 comment_status: open
 post_name: ui-evolution
 status: publish

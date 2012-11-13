@@ -3,8 +3,8 @@ link: http://paradigm.ru/the-tools-we-use
 creator: admin
 description: 
 post_id: 202
-post_date: 2008-03-10 21:07:08
-post_date_gmt: 2008-03-10 18:07:08
+created: 2008/03/10 21:07:08
+created_gmt: 2008/03/10 18:07:08
 comment_status: open
 post_name: the-tools-we-use
 status: publish

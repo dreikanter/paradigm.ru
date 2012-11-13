@@ -3,8 +3,8 @@ link: http://paradigm.ru/web-aps-optimization
 creator: admin
 description: 
 post_id: 141
-post_date: 2007-12-29 00:53:15
-post_date_gmt: 2007-12-28 21:53:15
+created: 2007/12/29 00:53:15
+created_gmt: 2007/12/28 21:53:15
 comment_status: open
 post_name: web-aps-optimization
 status: publish

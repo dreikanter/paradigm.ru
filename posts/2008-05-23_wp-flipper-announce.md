@@ -3,8 +3,8 @@ link: http://paradigm.ru/wp-flipper-announce
 creator: admin
 description: 
 post_id: 343
-post_date: 2008-05-23 12:00:19
-post_date_gmt: 2008-05-23 09:00:19
+created: 2008/05/23 12:00:19
+created_gmt: 2008/05/23 09:00:19
 comment_status: open
 post_name: wp-flipper-announce
 status: publish

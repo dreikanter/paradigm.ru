@@ -3,8 +3,8 @@ link: http://paradigm.ru/spik-summary
 creator: admin
 description: 
 post_id: 356
-post_date: 2008-06-08 13:50:36
-post_date_gmt: 2008-06-08 10:50:36
+created: 2008/06/08 13:50:36
+created_gmt: 2008/06/08 10:50:36
 comment_status: open
 post_name: spik-summary
 status: publish
@@ -25,5 +25,5 @@ post_type: post
 
 ## Comments
 
-**[amxm](#2406 "2008-09-21 00:28:24"):** Случайно сюда попал, и так и не понял что такое СПИК ))
+**[amxm](#2406 "2008/09/21 00:28:24"):** Случайно сюда попал, и так и не понял что такое СПИК ))
 

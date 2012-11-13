@@ -3,8 +3,8 @@ link: http://paradigm.ru/microblogging-and-brain-slugs
 creator: admin
 description: 
 post_id: 174
-post_date: 2008-02-13 17:21:27
-post_date_gmt: 2008-02-13 14:21:27
+created: 2008/02/13 17:21:27
+created_gmt: 2008/02/13 14:21:27
 comment_status: open
 post_name: microblogging-and-brain-slugs
 status: publish
@@ -32,7 +32,7 @@ Follow me at twitter.com today! Gain a free brain slug! [twitter.com/dreikant
 
 ## Comments
 
-**[MrPablo](#331 "2008-02-22 10:50:05"):** И кстати, Тумблер - это сервис тлогов, а вовсе не микроблогов %)
+**[MrPablo](#331 "2008/02/22 10:50:05"):** И кстати, Тумблер - это сервис тлогов, а вовсе не микроблогов %)
 
-**[admin](#332 "2008-02-22 10:56:17"):** MrPablo: А в чем разница?
+**[admin](#332 "2008/02/22 10:56:17"):** MrPablo: А в чем разница?
 

@@ -3,8 +3,8 @@ link: http://paradigm.ru/yandex-subbotni
 creator: admin
 description: 
 post_id: 635
-post_date: 2011-11-23 22:10:35
-post_date_gmt: 2011-11-23 19:10:35
+created: 2011/11/23 22:10:35
+created_gmt: 2011/11/23 19:10:35
 comment_status: open
 post_name: yandex-subbotni
 status: publish

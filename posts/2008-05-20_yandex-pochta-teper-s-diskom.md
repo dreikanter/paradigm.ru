@@ -3,8 +3,8 @@ link: http://paradigm.ru/yandex-pochta-teper-s-diskom
 creator: admin
 description: 
 post_id: 336
-post_date: 2008-05-20 23:04:29
-post_date_gmt: 2008-05-20 20:04:29
+created: 2008/05/20 23:04:29
+created_gmt: 2008/05/20 20:04:29
 comment_status: open
 post_name: yandex-pochta-teper-s-diskom
 status: publish
@@ -28,7 +28,7 @@ post_type: post
 
 ## Comments
 
-**[admin](#29434 "2009-03-12 10:23:01"):** Вряд ли я смогу здесь чем-то помочь, т.к. проблема, по всей видимости, в надежности интернет-канала (или на стороне Яндекса). У меня тоже раньше случалась такая ошибка при попытке загрузить большие файлы.
+**[admin](#29434 "2009/03/12 10:23:01"):** Вряд ли я смогу здесь чем-то помочь, т.к. проблема, по всей видимости, в надежности интернет-канала (или на стороне Яндекса). У меня тоже раньше случалась такая ошибка при попытке загрузить большие файлы.
 
-**[tsatsa](#29426 "2009-03-12 08:29:39"):** Ya otpravlyayu pismo v kotorom hochu otpravit dokument razmerom v 31 Mbt, polzuyus Prikrepit fayl do 5 Gbt, dokument nachinaet zagrujatsya, no potom govorit Ошибка при загрузке файла. Chto delat? Pomogite!
+**[tsatsa](#29426 "2009/03/12 08:29:39"):** Ya otpravlyayu pismo v kotorom hochu otpravit dokument razmerom v 31 Mbt, polzuyus Prikrepit fayl do 5 Gbt, dokument nachinaet zagrujatsya, no potom govorit Ошибка при загрузке файла. Chto delat? Pomogite!
 

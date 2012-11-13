@@ -3,8 +3,8 @@ link: http://paradigm.ru/about
 creator: admin
 description: 
 post_id: 4
-post_date: 2007-11-23 15:02:03
-post_date_gmt: 2007-11-23 12:02:03
+created: 2007/11/23 15:02:03
+created_gmt: 2007/11/23 12:02:03
 comment_status: closed
 post_name: about
 status: publish

@@ -3,8 +3,8 @@ link: http://paradigm.ru/zend-framework-infrastructure
 creator: admin
 description: 
 post_id: 279
-post_date: 2008-04-21 10:00:21
-post_date_gmt: 2008-04-21 17:00:21
+created: 2008/04/21 10:00:21
+created_gmt: 2008/04/21 17:00:21
 comment_status: open
 post_name: zend-framework-infrastructure
 status: publish

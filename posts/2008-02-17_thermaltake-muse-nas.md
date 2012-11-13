@@ -3,8 +3,8 @@ link: http://paradigm.ru/thermaltake-muse-nas
 creator: admin
 description: 
 post_id: 180
-post_date: 2008-02-17 12:11:41
-post_date_gmt: 2008-02-17 09:11:41
+created: 2008/02/17 12:11:41
+created_gmt: 2008/02/17 09:11:41
 comment_status: open
 post_name: thermaltake-muse-nas
 status: publish

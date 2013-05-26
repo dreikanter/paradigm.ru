@@ -1,7 +1,7 @@
 title: WP Flipper — плагин для стрелочной навигации
 link: http://paradigm.ru/wp-flipper
 creator: admin
-description: 
+description:
 post_id: 341
 created: 2008/05/22 12:19:56
 created_gmt: 2008/05/22 09:19:56
@@ -14,17 +14,17 @@ post_type: page
 
 Плагин Wordpress Flipper (WPF) предназначен для навигации по страницам блога с помощью горячих клавиш Ctrl-right/Ctrl-left.
 
-![](http://b.paradigm.ru/2008/05/ctrl.jpg)
+![](/media/ctrl.jpg)
 
 ### Где взять?
 
-Здесь: [http://things.paradigm.ru/wp-flipper.zip](http://things.paradigm.ru/wp-flipper.zip).
+Здесь: [/media/wp-flipper.zip](/media/wp-flipper.zip).
 
 ### Как установить?
 
 Для установки плагина, директорию `wp-flipper` из архива необходимо распаковать в каталог `/wp-content/plugins/`, после чего активировать плагин в панели управления Wordpress. Рекомендуется использовать версию Wordpress не ниже 2.5.
 
-![](http://b.paradigm.ru/2008/05/wp-flipper-active.png)
+![](/media/wp-flipper-active.png)
 
 ### Как работает?
 

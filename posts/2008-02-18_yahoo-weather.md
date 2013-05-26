@@ -1,7 +1,7 @@
 title: Поговорим о погоде
 link: http://paradigm.ru/yahoo-weather
 creator: admin
-description: 
+description:
 post_id: 181
 created: 2008/02/18 17:19:01
 created_gmt: 2008/02/18 14:19:01
@@ -20,15 +20,15 @@ Yahoo! Weather порадовал отсутствием перечисленн�
 
 Адрес RSS фида для интересующего города можно найти на сайте [weather.yahoo.com](http://weather.yahoo.com/).
 
-![](/;-\)/2008/02/yahoo-weather.png)
+![](/media/yahoo-weather.png)
 
 В общем виде URL выглядит следующим образом:
 
 `http://xml.weather.yahoo.com/forecastrss?p=**код_города**&u=**единицы_измерения**`
 
-Первый параметр — идентификатор интересующего города. Второй параметр определяет, в каких единицах будет выдаваться температура. Значение «c» соответствует градусам Цельсия, «f» — градусам Фаренгейта. 
+Первый параметр — идентификатор интересующего города. Второй параметр определяет, в каких единицах будет выдаваться температура. Значение «c» соответствует градусам Цельсия, «f» — градусам Фаренгейта.
 
-Несколько примеров: 
+Несколько примеров:
 
   * Москва — [http://xml.weather.yahoo.com/forecastrss?p=RSXX0063&u=c](http://xml.weather.yahoo.com/forecastrss?p=RSXX0063&u=c)
   * Санкт-Петербург — [http://xml.weather.yahoo.com/forecastrss?p=RSXX0091&u=c](http://xml.weather.yahoo.com/forecastrss?p=RSXX0091&u=c)
@@ -37,86 +37,86 @@ Yahoo! Weather порадовал отсутствием перечисленн�
   * Киев — [http://xml.weather.yahoo.com/forecastrss?p=UPXX0016&u=c](http://xml.weather.yahoo.com/forecastrss?p=UPXX0016&u=c)
 
 Описанный ниже класс `YahooWeather` (PHP5) предназначен для загрузки RSS по HTTP и предварительной обработки данных.
-    
+
     <?php
-    
+
     class YahooWeather {
         // Ветер
         public $wind_chill;
         public $wind_direction;
         public $wind_speed;
-    
+
         // Атмосферные показатели
         public $humidity;
         public $visibility;
         public $pressure;
-    
+
         // Время восхода и заката переводим в формат unix time
         public $sunrise;
         public $sunset;
-    
+
         // Текущая температура воздуха и погода
         public $temp;
         public $condition_text;
         public $condition_code;
-    
+
         // Прогноз погоды на 5 дней
         public $forecast;
-    
+
         public $units;
-    
+
         function __construct($code, $units = 'c', $lang = 'en') {
             $this->units = ($units == 'c')?'c':'f';
-    
+
             $url = 'http://xml.weather.yahoo.com/forecastrss?p='.
                 $code.'&u;='.$this->units;
-    
+
             $xml_contents = file_get_contents($url);
-            if($xml_contents === false) 
+            if($xml_contents === false)
                 throw new Exception('Error loading '.$url);
-    
+
             $xml = new SimpleXMLElement($xml_contents);
-    
+
             // Ветер
             $tmp = $xml->xpath('/rss/channel/yweather:wind');
             if($tmp === false) throw new Exception("Error parsing XML.");
             $tmp = $tmp[0];
-    
+
             $this->wind_chill = (int)$tmp['chill'];
             $this->wind_direction = (int)$tmp['direction'];
             $this->wind_speed = (int)$tmp['speed'];
-    
+
             // Атмосферные показатели
             $tmp = $xml->xpath('/rss/channel/yweather:atmosphere');
             if($tmp === false) throw new Exception("Error parsing XML.");
             $tmp = $tmp[0];
-    
+
             $this->humidity = (int)$tmp['humidity'];
             $this->visibility = (int)$tmp['visibility'];
             $this->pressure = (int)$tmp['pressure'];
-    
+
             // Время восхода и заката переводим в формат unix time
             $tmp = $xml->xpath('/rss/channel/yweather:astronomy');
             if($tmp === false) throw new Exception("Error parsing XML.");
             $tmp = $tmp[0];
-    
+
             $this->sunrise = strtotime($tmp['sunrise']);
             $this->sunset = strtotime($tmp['sunset']);
-    
+
             // Текущая температура воздуха и погода
             $tmp = $xml->xpath('/rss/channel/item/yweather:condition');
             if($tmp === false) throw new Exception("Error parsing XML.");
             $tmp = $tmp[0];
-    
+
             $this->temp = (int)$tmp['temp'];
             $this->condition_text = strtolower((string)$tmp['text']);
             $this->condition_code = (int)$tmp['code'];
-    
+
             // Прогноз погоды на 5 дней
             $forecast = array();
             $tmp = $xml->xpath('/rss/channel/item/yweather:forecast');
             if($tmp === false) throw new Exception("Error parsing XML.");
-    
+
             foreach($tmp as $day) {
                 $this->forecast[] = array(
                     'date' => strtotime((string)$day['date']),
@@ -127,37 +127,37 @@ Yahoo! Weather порадовал отсутствием перечисленн�
                 );
             }
         }
-    
+
         public function __toString() {
             $u = "°".(($this->units == 'c')?'C':'F');
             return $this->temp.' '.$u.', '.$this->condition_text;
         }
     }
-    
+
     ?>
 
 Пример использования:
-    
+
     <?php
-    
+
     try {
         $weather = new YahooWeather('RSXX0091');
     } catch(Exception $e) {
         echo "Caught exception: ".$e->getMessage();
         exit();
     }
-    
+
     echo '<h1>'.$weather.'</h1>';
-    
+
     echo "<pre>";
     print_r($weather);
     echo "</pre>";
-    
+
     ?>
 
 Вывод:
 
-![](/;-\)/2008/02/weather-report.png)
+![](/media/weather-report.png)
 
 ## Comments
 

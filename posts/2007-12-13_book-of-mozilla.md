@@ -1,7 +1,7 @@
 title: Firefox is «not a Religion»
 link: http://paradigm.ru/book-of-mozilla
 creator: admin
-description: 
+description:
 post_id: 78
 created: 2007/12/13 16:31:24
 created_gmt: 2007/12/13 13:31:24
@@ -14,9 +14,9 @@ post_type: post
 
 Только сегодня узнал, что если набрать в адресной строке Firefox [about:mozilla](about:mozilla), отобразится такая страница:
 
-![](/;-\)/2007/12/book-of-mozilla.png)
+![](/media/book-of-mozilla.png)
 
-По теме: 
+По теме:
 
   * [The Firefox Religion](http://www.blakeross.com/2005/01/22/firefox-religion/) by Blake Ross (Mozilla Firefox Founder)
   * [Firefox — A New Religion?](http://www.populartechnology.net/2005/01/firefox-new-religion.html) @ populartechnology.net

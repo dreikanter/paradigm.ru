@@ -1,7 +1,7 @@
 title: WP 2.5: Подробности о цветовых схемах адмнистративного UI
 link: http://paradigm.ru/wp25-admin-color-schemes
 creator: admin
-description: 
+description:
 post_id: 234
 created: 2008/03/21 03:05:58
 created_gmt: 2008/03/21 10:05:58
@@ -16,10 +16,10 @@ post_type: post
 
 Один из девелоперов WP — [Ryan](http://ryan.wordpress.com/) [сказал](http://b23.ru/3b4 ) на форуме разработчиков, что «New color schemes can be added as plugins». Сама «выбиралка» схем на странице настроек пользовательского профиля выглядит следующим образом:
 
-![](/;-\)/2008/03/0-colorschemes.png)
+![](/media/0-colorschemes.png)
 
 А «изнутри» переключение между ними осуществляется с помощью новой функции `wp_admin_css_color()`. Ее описание было найдено на блоге [planetOzh](http://b23.ru/3bt):
-    
+
     wp_admin_css_color(
         $shortname, // eg 'mycoolstyle', used to
                  //store setting in the wp_options table
@@ -35,8 +35,8 @@ post_type: post
 
 Здесь `$shortname` — идентификатор цветовой схемы для таблицы `wp_options`; `$longname` — обычное название схемы для отображения в административном UI, `$css_url` — URL соответствующего CSS-файла; последний аргумент — массив, который может содержать произвольное количество используемых в схеме цветов (подходит любой CSS-совместимый формат записи).
 
-А вот пример самого плагина оттуда же: 
-    
+А вот пример самого плагина оттуда же:
+
     <?php
     /*
     Plugin Name: Admin Custom CSS: Brazil!
@@ -46,9 +46,9 @@ post_type: post
     Version: 0.1
     Author URI: http://planetozh.com/
     */
-    
+
     add_action('admin_init','custom_admin_css_brazil');
-    
+
     function custom_admin_css_brazil() {
         $plugin_url = get_option( 'siteurl' ) . '/wp-content/plugins/' .
             plugin_basename(dirname(__FILE__)) ;
@@ -71,7 +71,7 @@ post_type: post
 
 Автор пишет, что был очень расстроен несовместимостью любимого им [Tiger](http://orderedlist.com/wordpress-plugins/wp-tiger-administration/) с новой версией CMS, и решил сделать собственную альтернативу. Я сам не являюсь любителем «Тигра», но Fluency визуально весьма понравился. Строгий, уравновешенный черно-белый дизайн (без дебильного глянца и других модных деталей). Чем-то похож на iTunes.
 
-![Fluency Admin](/;-\)/2008/03/1-fluency-admin-theme.jpg)
+![Fluency Admin](/media/1-fluency-admin-theme.jpg)
 
 Пока я не стал примерять эту тему (отложим до выхода релиза WP), но главная мораль сказки заключается в том, что админка WP становится более гибкой, чем была ранее. И это хорошая тенденция.
 

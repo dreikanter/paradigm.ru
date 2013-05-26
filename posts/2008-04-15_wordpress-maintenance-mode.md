@@ -1,7 +1,7 @@
 title: «Переучет»
 link: http://paradigm.ru/wordpress-maintenance-mode
 creator: admin
-description: 
+description:
 post_id: 269
 created: 2008/04/15 01:41:49
 created_gmt: 2008/04/15 08:41:49
@@ -20,11 +20,11 @@ post_type: post
 
 Плагин [Maintenance Mode](http://b23.ru/k2d) отображает такую «заглушку» с сообщением о временной недоступности вместо любой страницы сайта. При этом, ее будут видеть все посетители, кроме залогиненого администратора, который по-прежнему сможет перемещаться по страницам.
 
-![maintenance mode wordpress plugin](/;-\)/2008/04/00-maintenance-mode.png)
+![maintenance mode wordpress plugin](/media/00-maintenance-mode.png)
 
 Плагин довольно удобно контролируется через административную панель.
 
-![maintenance mode wordpress plugin](/;-\)/2008/04/01-maintenance-mode.png)
+![maintenance mode wordpress plugin](/media/01-maintenance-mode.png)
 
 Стоит отметить, что при включении Maintenance Mode следует отключать WP-Cache (при его наличии). Иначе страницы останутся доступны, пока не «выдохнется» кэш.
 

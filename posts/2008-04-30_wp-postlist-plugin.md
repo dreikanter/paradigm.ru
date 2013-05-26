@@ -1,7 +1,7 @@
 title: Удобный архив постов для Wordpress
 link: http://paradigm.ru/wp-postlist-plugin
 creator: admin
-description: 
+description:
 post_id: 293
 created: 2008/04/30 08:24:42
 created_gmt: 2008/04/30 15:24:42
@@ -21,15 +21,15 @@ post_type: post
 Кстати, плагин для Wordpress писал в первый раз, используя в качестве примера похожий по функциональности [WP Simple Sitemap](http://b23.ru/pvb) (тоже генерирует список постов, но более простой, хотя и с разбиением на страницы).
 
 Учитывая тематическую ориентацию блога, приведу сначала фрагмент кода, генерирующий список с «якорями» и датами:
-    
+
     $cats = get_categories();
     $uncategorized = array_shift($cats);
     array_push($cats, $uncategorized);
-    
+
     $contents = array();
     $catList = array();
-    
-    foreach($cats as $cat) { 
+
+    foreach($cats as $cat) {
         $posts = get_posts('numberposts=0&orderby=post_date&'.
             'order =ASC&category='.$cat->cat_ID);
         $postList = array();
@@ -37,7 +37,7 @@ post_type: post
             $postList[] = date('(Y/m/d) ', strtotime($post->post_date)).
                 '<a href="'.$post->guid.'">'.$post->post_title.'</a>';
         }
-    
+
         $catId = 'cat_'.($cat->cat_ID);
         $cnt = ' ('.$cat->count.')';
         $contents[] = '<a href="#'.$catId.'">'.$cat->name.'</a>'.$cnt;
@@ -45,14 +45,14 @@ post_type: post
             $cat->name.$cnt.' <a href="#postlist_top">↑</a></h3>'.
             '<ul><li>'.implode('</li><li>', $postList).'</li></ul>';
     }
-    
+
     echo '<p><a href="" id="postlist_top"></a>'.
         implode(', ', $contents).'</p>'.implode("\n", $catList);
 
 В программе используются функции WP API `get_categories()` и `get_posts()`, извлекающие из базы списки категрий и постов соответственно. Далее на их основе генерируется HTML.
 
 Вывод облака тегов выполняется вообще в три строчки:
-    
+
     $settings = get_option('wp_postlist_array');
     $tags = wp_tag_cloud('number=0&format;=array'); // WP 2.5+
     echo '<p class="pl_cloud">'.implode(' ', $tags).'</p>';
@@ -63,7 +63,7 @@ post_type: post
 
 Этот плагин ищет в тексте страниц два предопределенных ключевых слова и вставляет на их место список постов и облако тагов соответственно. Благодаря такому подходу обеспечивается полная независимость от темы и гибкость в отношении оформления. Сгенерированный плагином список может получиться довольно длинным, поэтому я бы рекомендовал размещать его на специально-предназначенной странице, не заполненной другим контентом.
 
-Пример использования: [http://paradigm.ru/archive](/archive). Страница плагина: [http://paradigm.ru/wp-postlist](http://paradigm.ru/wp-postlist). Архив для скачивания: [http://things.paradigm.ru/wp-postlist.zip](http://things.paradigm.ru/wp-postlist.zip).
+Пример использования: [http://paradigm.ru/archive](/archive). Страница плагина: [http://paradigm.ru/wp-postlist](http://paradigm.ru/wp-postlist). Архив для скачивания: [/media/wp-postlist.zip](/media/wp-postlist.zip).
 
 ## Comments
 

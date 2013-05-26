@@ -1,7 +1,7 @@
 title: Эбаут
 link: http://paradigm.ru/about
 creator: admin
-description: 
+description:
 post_id: 4
 created: 2007/11/23 15:02:03
 created_gmt: 2007/11/23 12:02:03
@@ -22,4 +22,4 @@ post_type: page
   * Friendfeed: [friendfeed.com/dreikanter](http://friendfeed.com/dreikanter)
   * Спросить меня о чем угодно можно здесь: [formspring.me/dreikanter](http://formspring.me/dreikanter)
 
-![](/;-\)/2007/11/dreamhost.jpg)
+![](/media/dreamhost.jpg)

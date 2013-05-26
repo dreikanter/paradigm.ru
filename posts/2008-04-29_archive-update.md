@@ -1,7 +1,7 @@
 title: Архив блога
 link: http://paradigm.ru/archive-updat
 creator: admin
-description: 
+description:
 post_id: 291
 created: 2008/04/29 08:39:19
 created_gmt: 2008/04/29 15:39:19
@@ -14,7 +14,7 @@ post_type: post
 
 Обновил страницу архива на paradigm.ru. Теперь она выглядит так, как полагается выгдлядеть правильному архиву.
 
-[![Архив Paradigm.ru](/;-\)/2008/04/archive.png)](http://paradigm.ru/archive)
+[![Архив Paradigm.ru](/media/archive.png)](http://paradigm.ru/archive)
 
 Заодно убрал из сайдбара малополезный список ссылок на посты, сгруппированные по месяцам. Прихожу к выводу, что реально полезных навигационных элементов в блоге не так уж и много. И многообразие способов организации постов далеко не всегда оправдано.
 

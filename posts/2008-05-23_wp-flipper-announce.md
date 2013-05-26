@@ -1,7 +1,7 @@
 title: WP Flipper — стрелочная навигация для блога
 link: http://paradigm.ru/wp-flipper-announce
 creator: admin
-description: 
+description:
 post_id: 343
 created: 2008/05/23 12:00:19
 created_gmt: 2008/05/23 09:00:19
@@ -14,12 +14,12 @@ post_type: post
 
 Теперь страницы Paradigm.ru можно листать с помощью Ctrl-left и Ctrl-right. Идея написать такой плагин для Wordpress витала в воздухе уже давно и, в итоге, материализовалась. По сравнению с [предыдущим](/wp-postlist/), плагин получился довольно простой, не требующий никаких настроек в контрольной панели. Достаточно включить и все заработает. Ссылка на архив:
 
-[http://things.paradigm.ru/wp-flipper.zip](http://things.paradigm.ru/wp-flipper.zip)
+[/media/wp-flipper.zip](/media/wp-flipper.zip)
 
 Более подробное описание находится на **[странице плагина](/wp-flipper/)**, а пока вкратце расскажу о технической стороне вопроса для тех, кому интересно.
 
 В принципе, сам процесс «отлавливания» нажатий на горячие клавиши довольно прост. Уже давно в [Техногрете](http://www.artlebedev.ru/tools/technogrette/) на эту тему была опубликована статья с примером. Код на JavaScript выглядит следующим образом:
-    
+
     function NavigateThrough (event)
     {
       switch (event.keyCode ? event.keyCode : event.which ? event.which : null)
@@ -31,7 +31,7 @@ post_type: post
           link = document.getElementById ('NextLink');
           break;
       }
-      if (link && link.href) document.location = link.href;  
+      if (link && link.href) document.location = link.href;
     }
 
 Для того, чтобы функция срабатывала, необходимо зарегистрировать обработчик на событие `document.onkeydown` и прописать соответствующие id у навигационных ссылок (тех, которым соответствует «лево» и «право»). Либо просто вставить внутрь кода URL правой и левой страниц, как я и сделал.

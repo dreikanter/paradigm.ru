@@ -1,7 +1,7 @@
 title: Поговорку «От добра добра не ищут» придумали унылые ретрограды
 link: http://paradigm.ru/no-stupiding
 creator: admin
-description: 
+description:
 post_id: 351
 created: 2008/05/30 13:17:55
 created_gmt: 2008/05/30 10:17:55
@@ -20,7 +20,7 @@ post_type: post
 
 Наверное, в качестве резюме здесь полагалось бы сделать какой-нибудь глубокомысленный мотивирующий вывод.
 
-[![](http://a.paradigm.ru/2008/05/brenson.png)](http://explore.twitter.com/Mazoo/statuses/779256952)
+[![](/media/brenson.png)](http://explore.twitter.com/Mazoo/statuses/779256952)
 
 Не буду (: Не надо думать, что этот пост — мощный призыв к чему-нибудь пафосному, сопровождаемый придыханием и размахиванием знаменем. Так, просто, мысли в слух подуманные, пока заваривался чай.
 
@@ -28,6 +28,6 @@ post_type: post
 
 Вместо этого лучше покажу свою версию знака «не тупить» (авторство принадлежит тов. [gmarketer](http://gmarketer.livejournal.com/167287.html); источник вдохновения — творчество [Stephan Pastis](http://www.comics.com/comics/pearls/archive/pearls-20080527.html)).
 
-[![](http://b.paradigm.ru/2008/05/nostupiding.png)](http://b23.ru/y6z)  
-(под картинкой линк на PDF-версию для печати  
+[![](/media/nostupiding.png)](http://b23.ru/y6z)
+(под картинкой линк на PDF-версию для печати
 и последующего вешания на стену)

@@ -1,7 +1,7 @@
 title: B23 Chrome Extension
 link: http://paradigm.ru/b23-chrome-extension
 creator: admin
-description: 
+description:
 post_id: 393
 created: 2010/01/06 20:55:46
 created_gmt: 2010/01/06 17:55:46
@@ -14,11 +14,11 @@ post_type: post
 
 Несколько дней назад решил вблизи посмотреть, как работают расширения для Chrome. В результате, написал свой. Для чего он нужен и как работает, должно стать понятно из скриншота:
 
-![b23](http://a.paradigm.ru/2010/01/2001.png)
+![b23](/media/2001.png)
 
 Но, если не понятно, это кнопка для сокращения URL-ов с помощью сервиса [b23.ru](http://b23.ru). Благодаря недавно открытой галерее [Google Chrome Extensions](http://chrome.google.com/extensions), расширение можно [поставить в пару кликов](http://b23.ru/st0d) (c поправкой на то, что вы пользуетесь версией Chrome для Windows и не поленились поставить [девелоперскую бету](http://www.google.com/landing/chrome/beta/), т. к. поддержка плагинов пока есть только там).
 
-![b23 @ Сhrome Gallery](http://b.paradigm.ru/2010/01/b23-at-chrome-gallery.png)
+![b23 @ Сhrome Gallery](/media/b23-at-chrome-gallery.png)
 
 Впечатлений относительно технической стороны хватит на отдельный пост, который имеет шансы появиться в ближайшее время.
 

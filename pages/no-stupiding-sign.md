@@ -1,7 +1,7 @@
 title: Знак «не тупить»
 link: http://paradigm.ru/no-stupiding-sign
 creator: admin
-description: 
+description:
 post_id: 361
 created: 2008/06/10 21:50:15
 created_gmt: 2008/06/10 18:50:15
@@ -12,10 +12,10 @@ post_type: page
 
 # Знак «не тупить»
 
-Знак впервые был опубликован [здесь](/2008/05/30/no-stupiding/), но в последствии перенесен на отдельную страницу. 
+Знак впервые был опубликован [здесь](/2008/05/30/no-stupiding/), но в последствии перенесен на отдельную страницу.
 
-[![](http://b.paradigm.ru/2008/06/no-stupiding.png)](http://b23.ru/y6z)  
-(под картинкой линк на PDF-версию для печати  
+[![](/media/no-stupiding.png)](http://b23.ru/y6z)
+(под картинкой линк на PDF-версию для печати
 и последующего вешания на стену)
 
 ## Comments

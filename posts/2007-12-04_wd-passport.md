@@ -1,7 +1,7 @@
 title: Винчестер для снятия отпечатков пальцев
 link: http://paradigm.ru/wd-passport
 creator: admin
-description: 
+description:
 post_id: 35
 created: 2007/12/04 20:23:50
 created_gmt: 2007/12/04 17:23:50
@@ -14,7 +14,7 @@ post_type: post
 
 Вчера обзавелся такой штукой:
 
-![wdfpassport.jpg](/;-\)/2007/12/wdfpassport.jpg)
+![wdfpassport.jpg](/media/wdfpassport.jpg)
 
 Первые впечатления от WD Passport очень положительные: девайс компактный и легкий (~100 г.). При работе не шумит и сильно не нагревается, а скорость обмена данными, по моим меркам, вполне приемлема для работы. В Windows XP и 2K винчестер определяется сразу после подключения. Слышал, что под OS X и Linux  тоже все хорошо.
 

@@ -1,7 +1,7 @@
 title: Иерархия темплейтов Wordpress
 link: http://paradigm.ru/wordpress-template-diagram
 creator: admin
-description: 
+description:
 post_id: 303
 created: 2008/05/02 11:08:14
 created_gmt: 2008/05/02 18:08:14
@@ -16,7 +16,7 @@ post_type: post
 
 Даже странно, что в официальной документации не сделали графического представления.
 
-[![](/;-\)/2008/05/wp-diagram-preview.jpg)](http://wpcandy.com/mint/pepper/orderedlist/downloads/download.php?file=http%3A//wpcandy.com/wp-content/uploads/2008/04/wp-diagram.jpg)  
+[![](/media/wp-diagram-preview.jpg)](http://wpcandy.com/mint/pepper/orderedlist/downloads/download.php?file=http%3A//wpcandy.com/wp-content/uploads/2008/04/wp-diagram.jpg)
 (клик ту зум)
 
 Уже четвертый пост подряд про Wordpress. Надо что-то менять.

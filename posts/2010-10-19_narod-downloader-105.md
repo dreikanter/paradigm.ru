@@ -1,7 +1,7 @@
 title: Обновился Narod Downloader
 link: http://paradigm.ru/narod-downloader-105
 creator: admin
-description: 
+description:
 post_id: 487
 created: 2010/10/19 15:10:22
 created_gmt: 2010/10/19 12:10:22
@@ -16,11 +16,11 @@ post_type: post
 
 Действие, выполняемое при нажатию на кнопку, можно задать на странице настроек расширения:
 
-![](/;-\)/2010/10/2010/10/19_1531.png)
+![](/media/2010/10/19_1531.png)
 
 Так же в текущей версии добавлена поддержка нового типа ссылок (narod.yandex.ru/disk/*) и обновлены иконки. Кнопка Download выглядит теперь так:
 
-![](/;-\)/2010/10/2010/10/19_1520.png)
+![](/media/2010/10/19_1520.png)
 
 Спасибо Паше ZZZ за ценные комментарии и [visualpharm.com](http://visualpharm.com/) за иконки.
 

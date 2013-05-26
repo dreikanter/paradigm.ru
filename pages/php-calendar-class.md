@@ -1,7 +1,7 @@
 title: PHP класс для генерации умных календарей
 link: http://paradigm.ru/php-calendar-class
 creator: admin
-description: 
+description:
 post_id: 308
 created: 2008/05/07 11:22:10
 created_gmt: 2008/05/07 18:22:10
@@ -16,7 +16,7 @@ post_type: page
 
 ### Где взять?
 
-Здесь: [http://things.paradigm.ru/calendar.class/calendar.class.zip](http://things.paradigm.ru/calendar.class/calendar.class.zip)
+Здесь: [/media/calendar.class/calendar.class.zip](/media/calendar.class/calendar.class.zip)
 
 ### Что умеет?
 
@@ -31,15 +31,15 @@ post_type: page
 
 Ниже приведены несколько скриншотов сгенерированных календарей. По клику на любом из них откроется страница с соответствующим примером кода и сами календари вживую.
 
-[![](/;-\)/2008/05/03-php-calendar.png)](http://things.paradigm.ru/calendar.class/#c05)
+[![](/media/03-php-calendar.png)](/media/calendar.class/#c05)
 
 Код календарей генерируется с включенными CSS-спецификаторами, благодаря чему их можно оформлять с помощью собственных стилей.
 
-[![](/;-\)/2008/05/01-php-calendar.png)](http://things.paradigm.ru/calendar.class/#c03)
+[![](/media/01-php-calendar.png)](/media/calendar.class/#c03)
 
-[Несколько примеров](http://things.paradigm.ru/calendar.class/#c04) определения CSS-классов для календарей.
+[Несколько примеров](/media/calendar.class/#c04) определения CSS-классов для календарей.
 
-[![](/;-\)/2008/05/02-php-calendar.png)](http://things.paradigm.ru/calendar.class/#c04)
+[![](/media/02-php-calendar.png)](/media/calendar.class/#c04)
 
 ## Comments
 
@@ -57,22 +57,22 @@ post_type: page
 
 **[nikolay](#39322 "2009/10/29 16:33:53"):** Спасибо! А дни случайно не подскажите чтобы после $i еще и день выводился по порядку. Спасибо еще раз.
 
-**[admin](#39326 "2009/10/29 17:53:44"):** nikolay: 
-    
+**[admin](#39326 "2009/10/29 17:53:44"):** nikolay:
+
     ... + $i + "/" + date("l", [нужная дата и время]) ...
 
 http://php.net/manual/en/function.date.php
 
 **[nikolay](#39318 "2009/10/29 15:03:52"):** Здравствуйте, подскажите как автоматически привязать к числу месяца гиперссылку вида 2009/1001/ например. Спасибо. Чтобы в календаре автоматически проставлялись ссылки?
 
-**[admin](#39319 "2009/10/29 15:23:34"):** nikolay: Например, так: 
-    
+**[admin](#39319 "2009/10/29 15:23:34"):** nikolay: Например, так:
+
     for($i = 1; $i < 13; $i++)
       $calendar->addDateTitle(10, $i, 2009, "http://example.com/2009/" + $i);
 
 **[koldun666](#38761 "2009/10/14 15:11:08"):** Огромное спасибо! Все прекрасно работает.
 
-**[mihdan](#35032 "2009/06/05 12:46:29"):** http://things.paradigm.ru/calendar.class/#c04
+**[mihdan](#35032 "2009/06/05 12:46:29"):** /media/calendar.class/#c04
 
 **[Zheban](#35001 "2009/06/04 11:27:37"):** А как вообще ставить его?
 
